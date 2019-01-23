@@ -1,0 +1,3 @@
+ string searchServiceName = "azrsrchpicturebot";
+ string queryApiKey = "AA15B37AB01F0B04B18A4A5F6DCB849E";
+ string indexName = "images";
